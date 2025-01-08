@@ -1,0 +1,6 @@
+{
+    "model_name": "Decision Tree",
+    "AUC-ROC": 0.7657209826574789,
+    "precision": 0.562874251497006,
+    "recall": 0.7440633245382586
+}

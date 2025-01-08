@@ -1,0 +1,6 @@
+{
+    "model_name": "Random Forest",
+    "AUC-ROC": 0.798296487947332,
+    "precision": 0.6895674300254453,
+    "recall": 0.7150395778364116
+}
